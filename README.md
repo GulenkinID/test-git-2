@@ -10,4 +10,4 @@
 
 6. git log | git log --oneline имя почта хеш дата ветка / краткий хеш  ветка
 
-7. git push [link_rep] [branch]
+7. git push [link_rep] [branch] отправить изменения на удалённый репозиторий
