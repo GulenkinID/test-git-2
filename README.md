@@ -15,3 +15,5 @@
 8. git branch [name] создать ветку
 
 9. git checkout [name] переключиться на другую ветку
+
+10. git pull [link_rep] [branch] получить изменения с удалённого репозитория
